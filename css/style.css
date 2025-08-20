@@ -1,7 +1,4 @@
-/* Kyros
-/* created by designesia
-
-
+/*
 ==================================================
 Table of Content
 ================================================== 
@@ -3686,6 +3683,8 @@ a.btn-link {
 .spacer-20 {
     width: 100%;
     height: 20px;
+    display: block;
+    clear: both;
     color: #ff0000;
 }
 
@@ -14233,7 +14232,6 @@ a.read_more i {
 
 .typed-strings p {
     position: absolute;
-    
 }
 
 .typed-cursor {
